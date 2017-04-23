@@ -1,0 +1,384 @@
+fileFormatVersion: 2
+guid: 6fef62ffba132bb4491af3740eee49a0
+timeCreated: 1492522510
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: ggj_game___angry_girl_sprites_version_by_ahnixoc-d741nxm_0
+    21300002: ggj_game___angry_girl_sprites_version_by_ahnixoc-d741nxm_1
+    21300004: ggj_game___angry_girl_sprites_version_by_ahnixoc-d741nxm_2
+    21300006: ggj_game___angry_girl_sprites_version_by_ahnixoc-d741nxm_3
+    21300008: ggj_game___angry_girl_sprites_version_by_ahnixoc-d741nxm_4
+    21300010: ggj_game___angry_girl_sprites_version_by_ahnixoc-d741nxm_5
+    21300012: ggj_game___angry_girl_sprites_version_by_ahnixoc-d741nxm_6
+    21300014: ggj_game___angry_girl_sprites_version_by_ahnixoc-d741nxm_7
+    21300016: ggj_game___angry_girl_sprites_version_by_ahnixoc-d741nxm_8
+    21300018: ggj_game___angry_girl_sprites_version_by_ahnixoc-d741nxm_9
+    21300020: ggj_game___angry_girl_sprites_version_by_ahnixoc-d741nxm_10
+    21300022: ggj_game___angry_girl_sprites_version_by_ahnixoc-d741nxm_11
+    21300024: ggj_game___angry_girl_sprites_version_by_ahnixoc-d741nxm_12
+    21300026: ggj_game___angry_girl_sprites_version_by_ahnixoc-d741nxm_13
+    21300028: ggj_game___angry_girl_sprites_version_by_ahnixoc-d741nxm_14
+    21300030: ggj_game___angry_girl_sprites_version_by_ahnixoc-d741nxm_15
+    21300032: ggj_game___angry_girl_sprites_version_by_ahnixoc-d741nxm_16
+    21300034: ggj_game___angry_girl_sprites_version_by_ahnixoc-d741nxm_17
+    21300036: ggj_game___angry_girl_sprites_version_by_ahnixoc-d741nxm_18
+    21300038: ggj_game___angry_girl_sprites_version_by_ahnixoc-d741nxm_19
+    21300040: ggj_game___angry_girl_sprites_version_by_ahnixoc-d741nxm_20
+    21300042: ggj_game___angry_girl_sprites_version_by_ahnixoc-d741nxm_21
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ggj_game___angry_girl_sprites_version_by_ahnixoc-d741nxm_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 560
+        width: 140
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ggj_game___angry_girl_sprites_version_by_ahnixoc-d741nxm_1
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 560
+        width: 163
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ggj_game___angry_girl_sprites_version_by_ahnixoc-d741nxm_2
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 560
+        width: 164
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ggj_game___angry_girl_sprites_version_by_ahnixoc-d741nxm_3
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 559
+        width: 162
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ggj_game___angry_girl_sprites_version_by_ahnixoc-d741nxm_4
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 559
+        width: 140
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ggj_game___angry_girl_sprites_version_by_ahnixoc-d741nxm_5
+      rect:
+        serializedVersion: 2
+        x: 854
+        y: 561
+        width: 139
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ggj_game___angry_girl_sprites_version_by_ahnixoc-d741nxm_6
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 374
+        width: 139
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ggj_game___angry_girl_sprites_version_by_ahnixoc-d741nxm_7
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 373
+        width: 140
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ggj_game___angry_girl_sprites_version_by_ahnixoc-d741nxm_8
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 374
+        width: 163
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ggj_game___angry_girl_sprites_version_by_ahnixoc-d741nxm_9
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 373
+        width: 163
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ggj_game___angry_girl_sprites_version_by_ahnixoc-d741nxm_10
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 374
+        width: 164
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ggj_game___angry_girl_sprites_version_by_ahnixoc-d741nxm_11
+      rect:
+        serializedVersion: 2
+        x: 883
+        y: 374
+        width: 140
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ggj_game___angry_girl_sprites_version_by_ahnixoc-d741nxm_12
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 187
+        width: 160
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ggj_game___angry_girl_sprites_version_by_ahnixoc-d741nxm_13
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 187
+        width: 170
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ggj_game___angry_girl_sprites_version_by_ahnixoc-d741nxm_14
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 187
+        width: 172
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ggj_game___angry_girl_sprites_version_by_ahnixoc-d741nxm_15
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 187
+        width: 161
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ggj_game___angry_girl_sprites_version_by_ahnixoc-d741nxm_16
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 187
+        width: 173
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ggj_game___angry_girl_sprites_version_by_ahnixoc-d741nxm_17
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 171
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ggj_game___angry_girl_sprites_version_by_ahnixoc-d741nxm_18
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 1
+        width: 161
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ggj_game___angry_girl_sprites_version_by_ahnixoc-d741nxm_19
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 0
+        width: 172
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ggj_game___angry_girl_sprites_version_by_ahnixoc-d741nxm_20
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 0
+        width: 171
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ggj_game___angry_girl_sprites_version_by_ahnixoc-d741nxm_21
+      rect:
+        serializedVersion: 2
+        x: 691
+        y: 1
+        width: 161
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
