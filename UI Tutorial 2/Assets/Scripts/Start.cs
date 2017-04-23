@@ -11,7 +11,7 @@ public class Start : MonoBehaviour {
 
     public void StartButton()
     {
-        Invoke("startgame", 3f);        
+        Invoke("startgame", 2f);        
         //invoke 함수는 startgame 이라는 함수를 실행시켜주는데 몇초뒤(3f는 3초뒤)에 실행 시켜줄거냐 이다.
     }
 
@@ -23,7 +23,7 @@ public class Start : MonoBehaviour {
 
     public void optionbutton()
     {
-        Invoke("OptionGame", 0f);
+        Invoke("OptionGame", 1f);
         //invoke 함수는 startgame 이라는 함수를 실행시켜주는데 몇초뒤(3f는 3초뒤)에 실행 시켜줄거냐 이다.
     }
 
@@ -34,7 +34,7 @@ public class Start : MonoBehaviour {
 
     public void TitleButton()
     {
-        Invoke("MainTitleGame", 0f);
+        Invoke("MainTitleGame", 1f);
     }
 
     void MainTitleGame()
